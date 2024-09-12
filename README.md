@@ -1,7 +1,7 @@
 
 + 👋 Hi, I’m Abdellah
 + 🖥️ Web Developer 📍 🇫🇷
-+ ➡️ I simply enjoy working on the code, learning and building meaningful projects
++ 🧑🏻‍💻 I simply enjoy working on the code, learning and building meaningful projects
 
   <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
