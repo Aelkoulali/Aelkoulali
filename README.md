@@ -1,6 +1,6 @@
 
 + 👋 Hi, I’m Abdellah
-+ 🖥️ Web Developer 📍 🇫🇷
++ 🖥️ Web Developer </>📍 🇫🇷
 + 🧑🏻‍💻 I simply enjoy working on the code, learning and building meaningful projects
 
   <div>
