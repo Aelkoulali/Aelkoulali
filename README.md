@@ -11,5 +11,6 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB"  alt="MongoDB" width="40" height="40"/>&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="tailwinds"  alt="tailwinds" width="40" height="40"/>&nbsp; 
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="40" height="40"/>&nbsp;
  </div>
 
