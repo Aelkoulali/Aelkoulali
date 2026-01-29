@@ -1,5 +1,5 @@
 <div id="header"> 
-  <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/Banner.png" width="100%"/>
+  <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/Banneroriginal.png" width="100%"/>
 </div>
 
 
