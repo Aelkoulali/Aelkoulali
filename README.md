@@ -1,11 +1,12 @@
 
 ##  Hi, I’m Abdellah, a Web Developer with a passion for coding, learning and building meaningful projects.  
 ## 🌐  Portfolio https://aelkoulali.github.io/Portfolio/
-## ➡️  Frontend
-## ✅  Technical Skills
+## ➡️  Frontend skills
+ <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="40" height="40"/>&nbsp;  
+ </div> 
 ## ➡️  Backend
 ## ✅  Technical Skills
   <div>
