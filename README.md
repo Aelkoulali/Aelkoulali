@@ -1,4 +1,7 @@
 
+<div id="header" align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGkxc2VzZWMzaGdmMzF2YmNjam5xZXJ3d3dnOGltN2o3dnN4ZGh0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
+</div>
 ##  Hi, i’m Abdellah, a web developer with a passion for coding, learning and building meaningful projects.  
 ## 🌐  Portfolio https://aelkoulali.github.io/Portfolio/
 ## ➡️  Frontend
