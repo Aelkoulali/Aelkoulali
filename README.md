@@ -1,10 +1,10 @@
 
-## ✅  👋 Hi, I’m Abdellah, a Web Developer with a passion for coding, learning and building meaningful projects </>  
+##  Hi, I’m Abdellah, a Web Developer with a passion for coding, learning and building meaningful projects.  
 ## 🌐  Portfolio https://aelkoulali.github.io/Portfolio/
-## ➡️ Frontend
-## ✅ Technical Skills
-## ➡️ Backend
-## ✅ Technical Skills
+## ➡️  Frontend
+## ✅  Technical Skills
+## ➡️  Backend
+## ✅  Technical Skills
   <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -15,4 +15,7 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwinds"  alt="Tailwinds" width="40" height="40"/>&nbsp; 
    <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass"  alt="Sass" width="40" height="40"/>&nbsp;
  </div>
-
+ ## ➡️ Languages
+ ## ✅ English
+ ## ✅ Arabic
+ ## ✅ Spanish
