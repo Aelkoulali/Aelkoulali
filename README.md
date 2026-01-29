@@ -1,7 +1,5 @@
 
-## ✅  👋 Hi, I’m Abdellah
-## ✅  👨🏻‍💻  Web Developer
-## ✅  💻 I simply enjoy working on the code, learning and building meaningful projects </>  
+## ✅  👋 Hi, I’m Abdellah, a Web Developer, i simply enjoy working on the code, learning and building meaningful projects </>  
 ## 🌐  Portfolio
 ## ➡️ Frontend
 #Technical Skills
