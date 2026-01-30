@@ -1,7 +1,7 @@
 <div id="header"> 
   <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/Banneroriginal.png" width="100%" alt="welcome banner"/>
 </div>
-<h1 align="center">My skills</h1>
+<h1 align="center"> Technical Skills</h1>
 
 ###
 <div align="center">
