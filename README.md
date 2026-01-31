@@ -1,5 +1,5 @@
 <div id="header"> 
-  <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Banner.PNG" width="100%" alt="welcome banner"/>
+  <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/AvatarTransparent.png" width="150" alt="profile picture"/>
 </div>
 <h1 align="center"> Technical Skills</h1>
 
