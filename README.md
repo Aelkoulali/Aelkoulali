@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 <div id="header"> 
   <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/AvatarTransparent.png" width="150" alt="profile picture"/>
+=======
+<div id="header" align="center"> 
+  <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/AvatarTransparent.png" width="250" alt="profile picture"/>
+>>>>>>> 8905c93423be753ac367516be637ae59d9c1e350
 </div>
+
+###
 <h1 align="center"> Technical Skills</h1>
 
 ###
