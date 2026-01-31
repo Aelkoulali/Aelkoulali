@@ -4,9 +4,8 @@
 </div>
 <h1 align="center">👋 Hi there! Welcome to my digital workspace!</h1>
 <div>
-  <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/Banner.jpg" width="100%" />
+  <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/Banner.jpg" width="100%" height="200" />
 </div>
-<p >About me</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
