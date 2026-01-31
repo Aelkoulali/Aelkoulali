@@ -4,7 +4,7 @@
 </div>
 <h1 align="center">👋 Hi there! Welcome to my digital workspace!</h1>
 <div>
-  <img src="" />
+  <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/Banner.jpg" width="100%" />
 </div>
 <p >About me</p>
 <div align="center">
