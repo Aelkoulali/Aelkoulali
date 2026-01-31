@@ -3,7 +3,8 @@
   <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/AvatarTransparent.png" width="250" alt="profile picture"/>
 </div>
 <h1 align="center">👋 Hi there! Welcome to my digital workspace!</h1>
-###
+<p >About me</p>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
