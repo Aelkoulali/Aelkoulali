@@ -1,6 +1,8 @@
 <div id="header" align="center"> 
   <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/AvatarTransparent.png" width="250" alt="profile picture"/>
 </div>
+
+###
 <h1 align="center"> Technical Skills</h1>
 
 ###
