@@ -2,7 +2,13 @@
 <div id="header" align="center"> 
   <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/AvatarTransparent.png" width="250" alt="profile picture"/>
 </div>
+<<<<<<< HEAD
 <h1 align="center"> Technical Skills</h1>
+=======
+<h1 align="center">👋 Hi there! Welcome to my digital workspace!</h1>
+<p >About me</p>
+
+>>>>>>> a959b29ea95429c9afb7e702d3fadd27b1cbb7d2
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
