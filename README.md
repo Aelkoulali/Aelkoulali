@@ -6,6 +6,10 @@
 <div>
   <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/banner-Web-Development.png" width="100%" height="400" />
 </div>
+
+<h2 align="left">About me</h2>
+
+###
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
