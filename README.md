@@ -17,7 +17,7 @@
 <p align="left"></P>
   
 ###
-<h2 align="left">sKILLS</h2>
+<h2 align="left">Skills</h2>
 
 ###
 <div align="left">
