@@ -1,13 +1,26 @@
 
 <div id="header" align="center"> 
-  <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/AvatarTransparent.png" width="250" alt="profile picture"/>
+  <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/AvatarTransparent.png" width="250" alt="profile picture" />
 </div>
 <h1 align="center">👋 Hi there! Welcome to my digital workspace!</h1>
 <div>
-  <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/Banner.jpg" width="100%" height="200" />
+  
+###  
+  <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/51607.jpg" width="100%" height="250" />
 </div>
->>>>>>> fd8bfef7e34ace1324979a2be32b5002efcb17ea
-<div align="center">
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+<p align="left">I'm Abdellah, a web developer passionate about coding, learning and building a meaningful projects.</P>
+  
+###
+<h2 align="left">Skills</h2>
+
+###
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
