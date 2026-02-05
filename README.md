@@ -1,13 +1,10 @@
 
 <div id="header" align="center"> 
+  <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/51607.jpg" width="100%" height="250" />
   <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/AvatarTransparent.png" width="250" alt="profile picture" />
 </div>
 <h1 align="center">👋 Hi there! Welcome to my digital workspace!</h1>
 <div>
-  
-###  
-  <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/51607.jpg" width="100%" height="250" />
-</div>
 
 ###
 
