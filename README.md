@@ -1,12 +1,9 @@
 
-<div id="header" align="center"> 
-  <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/banner_laptop.jpg" width="100%" height="350" />
+<div id="header" align="center">   
   <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/AvatarTransparent.png" width="250" alt="profile picture" />
 </div>
 <h1 align="center">👋 Hi there! Welcome to my digital workspace!</h1>
 <div>
-
-###
 
 <h2 align="left">About me</h2>
 
