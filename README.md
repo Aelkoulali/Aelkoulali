@@ -14,7 +14,7 @@
 <p align="left">I'm Abdellah, a web developer passionate about coding, learning and building a meaningful projects.</P>
   
 ###
-<h2 align="left">Technical Skills</h2>
+<h2 align="left">Technical skills</h2>
 
 ###
 <div align="left">
@@ -41,8 +41,14 @@
 </div>
 
 ###
-<h2 align="left">Soft Skills</h2>
+<h2 align="left">Soft skills</h2>
 ➡️ Strong communication <br>
 ➡️ Time management and organization <br>
 ➡️ Adaptability and willingness to learn new technologies <br>
 ➡️ Attention to detail and quality assurance
+###
+<h2 align="left">language skills level</h2>
+ 🇫🇷 Native <br>
+ 🇸🇦 Native <br>
+ 🇺🇸 Advanced <br>
+ 🇪🇸 Upper-intermediate
