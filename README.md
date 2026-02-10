@@ -41,3 +41,8 @@
 </div>
 
 ###
+<h2 align="left">Soft Skills</h2>
+➡️ Strong communication <br>
+➡️ Time management and organization <br>
+➡️ Adaptability and willingness to learn new technologies <br>
+➡️ Attention to detail and quality assurance
