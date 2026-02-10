@@ -14,7 +14,7 @@
 <p align="left">I'm Abdellah, a web developer passionate about coding, learning and building a meaningful projects.</P>
   
 ###
-<h2 align="left">Skills</h2>
+<h2 align="left">Technical Skills</h2>
 
 ###
 <div align="left">
