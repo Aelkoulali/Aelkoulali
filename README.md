@@ -47,7 +47,7 @@
 ➡️ Attention to detail and quality assurance
 
 ###
-<h2 align="left">language skills level</h2>
+<h2 align="left">Language skills level</h2>
  🇫🇷 Native <br>
  🇸🇦 Native <br>
  🇺🇸 Advanced <br>
