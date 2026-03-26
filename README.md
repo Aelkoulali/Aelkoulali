@@ -43,8 +43,8 @@
 <h2 align="left">Soft skills</h2>
 ✅ Strong communication <br>
 ✅ Time management and organization <br>
-➡️ Adaptability and willingness to learn new technologies <br>
-➡️ Attention to detail and quality assurance
+✅ Adaptability and willingness to learn new technologies <br>
+✅ Attention to detail and quality assurance
 
 ###
 <h2 align="left">Language skills level</h2>
