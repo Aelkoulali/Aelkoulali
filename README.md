@@ -48,7 +48,7 @@
 
 ###
 <h2 align="left">Language skills level</h2>
- 🇫🇷 Native <br>
- 🇸🇦 Native <br>
- 🇺🇸 Advanced <br>
- 🇪🇸 Upper-intermediate
+ 🇫🇷  Native <br>
+ 🇸🇦  Native <br>
+ 🇺🇸  Advanced <br>
+ 🇪🇸  Upper-intermediate
