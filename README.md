@@ -1,5 +1,5 @@
 
-<div id="header" align="center">   
+<div id="header" align="center">    
   <img src="https://github.com/Aelkoulali/Aelkoulali/blob/main/Images/AvatarTransparent.png" width="250" alt="profile picture" />
 </div>
 <h1 align="center">👋 Hi there! Welcome to my digital workspace!</h1>
@@ -32,7 +32,7 @@
 ### Backend
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" /> 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expresss/express-original.svg" height="30" alt="express logo"  />
+ <img src="https://icongr.am/devicon/express-original.svg?size=48&color=ffffff" height="30" alt="express logo" />
   <img width="12" />    
 
 ### Data / Databases
@@ -50,7 +50,7 @@
   <img width="12" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   <img width="12" /> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/iconsfigma/figma-original.svg" height="30" alt="figma logo"  />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
   <img width="12" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="30" alt="photoshop logo"  />
   <img width="12" />  
