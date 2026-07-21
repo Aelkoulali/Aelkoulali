@@ -8,7 +8,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">I'm Abdellah, a web developer passionate about coding, learning and building a meaningful projects.</P>
+<p align="left">I’m Abdellah, a web developer focused on building and deploying real-world web applications. I learn by shipping projects with JavaScript, React/Vue, and Node.js, while improving code quality, reliability, and performance. I’m currently looking for a junior full-stack / web developer role.</P>
   
 ###
 <h2 align="left">Technical skills</h2>
@@ -43,10 +43,10 @@
 
 ###
 <h2 align="left">Soft skills</h2>
-✅ Strong communication <br>
+✅ Strong communication (PRs, code reviews, tradeoffs) <br>
 ✅ Time management and organization <br>
 ✅ Adaptability and willingness to learn new technologies <br>
-✅ Attention to detail and quality assurance
+✅ Attention to detail and quality assurance (clean code, testing/CI if applicable)
 
 ###
 <h2 align="left">Language skills level</h2>
