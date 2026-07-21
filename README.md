@@ -49,9 +49,11 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
   <img width="12" />  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/iconsfigma/figma-original.svg" height="30" alt="figma logo"  />
   <img width="12" />  
-- Figma  
-- Photoshop
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />  
 
 </div>
 
