@@ -8,7 +8,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">I’m Abdellah, a web developer focused on building and deploying real-world web applications.<br> I learn by shipping projects with JavaScript, React/Vue, and Node.js, while improving code quality, reliability, and performance.<br> I’m currently looking for a junior full-stack / web developer role.</P>
+<p align="left">I’m Abdellah, a web developer focused on building and deploying real-world web applications.<br> I learn by shipping projects with JavaScript, React/Vue, and Node.js, while improving code quality, reliability, and performance.<br> I’m currently looking for a junior front-end / web developer role.</P>
   
 ###
 <div align="left">
