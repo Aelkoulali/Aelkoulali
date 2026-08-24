@@ -44,8 +44,7 @@
 ### Cloud / Deployment
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" height="30" alt="aws logo" />
   <img width="12" />  
-<img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="30" alt="Azure logo" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="30" alt="Azure logo" />
   <img width="12" />    
 
 ### Tools
