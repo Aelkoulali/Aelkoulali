@@ -32,7 +32,7 @@
 ### Backend
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" /> 
- <img src="https://icongr.am/devicon/express-original.svg?size=48&color=ffffff" height="30" alt="express logo" />
+ <img src="https://cdn.simpleicons.org/express/FFFFFF" height="30" alt="Express logo" />
   <img width="12" />    
 
 ### Data / Databases
