@@ -9,8 +9,7 @@
 
 ###
 <p align="left">I’m Abdellah, a web developer focused on building and deploying real-world web applications.
-I learn by shipping projects with JavaScript, React/Vue, and Node.js, while improving code quality, reliability, and performance.
-I’m currently looking for a front-end / web developer rolelity, reliability, and performance.<br>
+I learn by shipping projects with JavaScript, React/Vue, and Node.js, while improving code quality, reliability, and performance.<br>
 I’m currently looking for a front-end / web developer role.</P>
   
 ###
