@@ -44,7 +44,7 @@ I’m currently looking for a front-end / web developer role.</P>
   <img width="12" />
 
 ### Cloud / Deployment
- <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" alt="AWS" height="30" /> 
+ <img src="./assets/aws.svg" alt="AWS" height="30" />
  <img width="12" />
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
