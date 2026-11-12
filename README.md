@@ -34,7 +34,7 @@ I’m currently looking for a front-end / web developer role.</P>
 ### Backend
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
   <img width="12" /> 
-  <img src="https://skills.syvixor.com/api/icons?i=expressjs&per" line="12&" radius="40" />
+  <img src="https://skills.syvixor.com/api/icons?i=expressjs&per" line="12&" radius="40" alt="express logo" />
 
 ### Data / Databases
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
