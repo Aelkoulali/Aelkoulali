@@ -44,7 +44,7 @@ I’m currently looking for a front-end / web developer role.</P>
   <img width="12" />
 
 ### Cloud / Deployment
-<img src="https://skills.syvixor.com/api/icons?i=amazonwebservices&per"  alt="aws logo" />
+<img src="https://skills.syvixor.com/api/icons?i=amazonwebservices&per"  alt="aws logo" height="30" />
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
      alt="Azure logo" height="30" />    
