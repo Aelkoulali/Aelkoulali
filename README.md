@@ -47,8 +47,7 @@ I’m currently looking for a front-end / web developer role.</P>
 <img src="https://skills.syvixor.com/api/icons?i=amazonwebservices&per" line=12& radius=40 alt="aws logo" />
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg"
-     alt="Azure logo" height="30" />     
-<img width="12" />
+     alt="Azure logo" height="30" />    
 
 ### Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
