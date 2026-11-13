@@ -23,7 +23,7 @@ I’m currently looking for a front-end / web developer role.</P>
  <img src="" alt="vue logo"  />
  <img src="" alt="tailwindcss logo"  />
  <img src="" alt="bootstrap logo"  />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="30" alt="sass logo"  />
+ <img src="" alt="sass logo"  />
 
 ### Backend
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
