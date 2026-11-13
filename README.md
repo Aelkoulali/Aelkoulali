@@ -31,9 +31,9 @@ I’m currently looking for a front-end / web developer role.</P>
 
 ### Data / Databases
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
+  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
+ 
 
 ### Cloud / Deployment
 <img src="https://skills.syvixor.com/api/icons?i=amazonwebservices" radius="40" alt="AWS logo" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" height="30" alt="Azure logo" />
