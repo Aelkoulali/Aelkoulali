@@ -30,8 +30,7 @@ I’m currently looking for a front-end / web developer role.</P>
  <img src="https://skills.syvixor.com/api/icons?i=expressjs&per" line="12&" radius="40" alt="express logo" />
 
 ### Data / Databases
- <img src="https://skills.syvixor.com/api/icons?i=mysql&perline=12&radius=40"  alt="mysql logo"  />
-  
+ <img src="https://skills.syvixor.com/api/icons?i=mysql&perline=12&radius=40"  alt="mysql logo"  />  
  <img src="https://skills.syvixor.com/api/icons?i=mongodb&perline=12&radius=40"  alt="mongodb logo"  />
  
 
