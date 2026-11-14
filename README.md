@@ -32,7 +32,7 @@ I’m currently looking for a front-end / web developer role.</P>
 ### Data / Databases
  <img src=""  alt="mysql logo"  />
   
- <img src="" height="30" alt="mongodb logo"  />
+ <img src=""  alt="mongodb logo"  />
  
 
 ### Cloud / Deployment
