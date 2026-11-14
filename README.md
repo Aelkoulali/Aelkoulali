@@ -26,7 +26,7 @@ I’m currently looking for a front-end / web developer role.</P>
  <img src="https://skills.syvixor.com/api/icons?i=sass&perline=12&radius=40" alt="sass logo"  />
 
 ### Backend
- <img src="" alt="nodejs logo"  />
+ <img src="https://skills.syvixor.com/api/icons?i=nodejs&perline=12&radius=40" alt="nodejs logo"  />
  <img src="https://skills.syvixor.com/api/icons?i=expressjs&per" line="12&" radius="40" alt="express logo" />
 
 ### Data / Databases
