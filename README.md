@@ -13,7 +13,7 @@ I’m currently looking for a front-end / web developer role.</P>
   
 ###
 <div align="left">
-###
+
 <h2 align="left">Technical skills</h2>
 
 ###
