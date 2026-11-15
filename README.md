@@ -18,6 +18,7 @@ I’m currently looking for a front-end / web developer role.</P>
 
 ###
 ### Frontend
+
  <img src="https://skills.syvixor.com/api/icons?i=javascript&perline=12&radius=40" alt="javascript icon"  />  
  <img src="https://skills.syvixor.com/api/icons?i=reactjs&perline=12&radius=40" alt="react icon"  />
  <img src="https://skills.syvixor.com/api/icons?i=vuejs&perline=12&radius=40" alt="vue icon"  />
@@ -26,10 +27,12 @@ I’m currently looking for a front-end / web developer role.</P>
  <img src="https://skills.syvixor.com/api/icons?i=sass&perline=12&radius=40" alt="sass icon"  />
 
 ### Backend
+
  <img src="https://skills.syvixor.com/api/icons?i=nodejs&perline=12&radius=40" alt="nodejs icon"  />
  <img src="https://skills.syvixor.com/api/icons?i=expressjs&per" line="12&" radius="40" alt="express icon" />
 
 ### Data / Databases
+
  <img src="https://skills.syvixor.com/api/icons?i=mysql&perline=12&radius=40"  alt="mysql icon"  />  
  <img src="https://skills.syvixor.com/api/icons?i=mongodb&perline=12&radius=40"  alt="mongodb icon"  />
  
@@ -40,6 +43,7 @@ I’m currently looking for a front-end / web developer role.</P>
  <img src="https://skills.syvixor.com/api/icons?i=azure&perline=12&radius=40"  alt="azure icon"  />
 
 ### Tools
+
 <img src="https://skills.syvixor.com/api/icons?i=git&perline=12&radius=40" alt="git icon"  />
   
 <img src="https://skills.syvixor.com/api/icons?i=visualstudiocode&perline=12&radius=40"  alt="vscode icon"  />
