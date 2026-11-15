@@ -46,7 +46,7 @@ I’m currently looking for a front-end / web developer role.</P>
   
 <img src="https://skills.syvixor.com/api/icons?i=figma&perline=12&radius=40"  alt="figma icon" />
   
-<img src="https://skills.syvixor.com/api/icons?i=adobephotoshop&perline=12&radius=40"  alt="photoshop logo"  />
+<img src="https://skills.syvixor.com/api/icons?i=adobephotoshop&perline=12&radius=40"  alt="photoshop icon"  />
 
 
 </div>
