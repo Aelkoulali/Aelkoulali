@@ -40,7 +40,7 @@ I’m currently looking for a front-end / web developer role.</P>
  <img src="https://skills.syvixor.com/api/icons?i=azure&perline=12&radius=40"  alt="azure logo"  />
 
 ### Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+<img src="" height="30" alt="git logo"  />
   
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
   
