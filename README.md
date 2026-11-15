@@ -42,7 +42,7 @@ I’m currently looking for a front-end / web developer role.</P>
 ### Tools
 <img src="" alt="git logo"  />
   
-<img src="" height="30" alt="vscode logo"  />
+<img src=""  alt="vscode logo"  />
   
 <img src="" height="30" alt="figma logo" />
   
