@@ -31,7 +31,7 @@ I’m currently looking for a front-end / web developer role.</P>
 
 ### Data / Databases
  <img src="https://skills.syvixor.com/api/icons?i=mysql&perline=12&radius=40"  alt="mysql icon"  />  
- <img src="https://skills.syvixor.com/api/icons?i=mongodb&perline=12&radius=40"  alt="mongodb logo"  />
+ <img src="https://skills.syvixor.com/api/icons?i=mongodb&perline=12&radius=40"  alt="mongodb icon"  />
  
 
 ### Cloud / Deployment
