@@ -46,7 +46,7 @@ I’m currently looking for a front-end / web developer role.</P>
   
 <img src="" height="30" alt="figma logo" />
   
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-original.svg" height="30" alt="photoshop logo"  />
+<img src="" height="30" alt="photoshop logo"  />
 
 
 </div>
