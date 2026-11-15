@@ -36,7 +36,7 @@ I’m currently looking for a front-end / web developer role.</P>
 
 ### Cloud / Deployment
 
- <img src="https://skills.syvixor.com/api/icons?i=amazonwebservices&perline=12&radius=40"  alt="amazon web service logo"  />  
+ <img src="https://skills.syvixor.com/api/icons?i=amazonwebservices&perline=12&radius=40"  alt="amazon web service icon"  />  
  <img src="https://skills.syvixor.com/api/icons?i=azure&perline=12&radius=40"  alt="azure icon"  />
 
 ### Tools
