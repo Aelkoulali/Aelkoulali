@@ -12,7 +12,6 @@ I learn by shipping projects with JavaScript, React/Vue, and Node.js, while impr
 I’m currently looking for a front-end / web developer role.</P>
   
 ###
-
 <div align="left">
 ## Technical skills
 
