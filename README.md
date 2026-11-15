@@ -42,7 +42,7 @@ I’m currently looking for a front-end / web developer role.</P>
 ### Tools
 <img src="https://skills.syvixor.com/api/icons?i=git&perline=12&radius=40" alt="git logo"  />
   
-<img src=""  alt="vscode logo"  />
+<img src="https://skills.syvixor.com/api/icons?i=visualstudiocode&perline=12&radius=40"  alt="vscode logo"  />
   
 <img src=""  alt="figma logo" />
   
