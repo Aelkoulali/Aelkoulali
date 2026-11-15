@@ -15,6 +15,7 @@ I’m currently looking for a front-end / web developer role.</P>
 <div align="left">
 ## Technical skills
 
+###
 ### Frontend
  <img src="https://skills.syvixor.com/api/icons?i=javascript&perline=12&radius=40" alt="javascript icon"  />  
  <img src="https://skills.syvixor.com/api/icons?i=reactjs&perline=12&radius=40" alt="react logo"  />
