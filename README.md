@@ -44,7 +44,7 @@ I’m currently looking for a front-end / web developer role.</P>
   
 <img src=""  alt="vscode logo"  />
   
-<img src="" height="30" alt="figma logo" />
+<img src=""  alt="figma logo" />
   
 <img src="" height="30" alt="photoshop logo"  />
 
