@@ -4,7 +4,6 @@
 </div>
 <h1 align="center">👋 Hi there! Welcome to my digital workspace!</h1>
 <div>
-
 <h2 align="left">About me</h2>
 
 ###
