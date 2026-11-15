@@ -23,7 +23,7 @@ I’m currently looking for a front-end / web developer role.</P>
  <img src="https://skills.syvixor.com/api/icons?i=vuejs&perline=12&radius=40" alt="vue icon"  />
  <img src="https://skills.syvixor.com/api/icons?i=tailwindcss&perline=12&radius=40" alt="tailwindcss icon"  />
  <img src="https://skills.syvixor.com/api/icons?i=bootstrap&perline=12&radius=40" alt="bootstrap icon"  />
- <img src="https://skills.syvixor.com/api/icons?i=sass&perline=12&radius=40" alt="sass logo"  />
+ <img src="https://skills.syvixor.com/api/icons?i=sass&perline=12&radius=40" alt="sass icon"  />
 
 ### Backend
  <img src="https://skills.syvixor.com/api/icons?i=nodejs&perline=12&radius=40" alt="nodejs logo"  />
